@@ -9,4 +9,4 @@ A planilha será criada na mesma pasta.
 Infos: <br>
 Compatível com: Windows <br>
 Python 3.8 <br>
-Bibliotecas: os, pandas, pathlib, openpyxl, pyinstaller
+Bibliotecas: os, pandas, pathlib, openpyxl, xlsxwriter, pyinstaller
